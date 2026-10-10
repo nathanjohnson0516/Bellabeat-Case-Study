@@ -41,6 +41,13 @@ Bellabeat wants to understand how consumers use smart fitness devices to identif
 - **Report:** Google Docs / PDF
 
 ## Project Structure
+```
+data/          # Raw and cleaned data files
+dashboards/    # Tableau workbook files (.twb/.twbx)
+images/        # Dashboard screenshots and virtual assets
+report/        # Full written case study (PDF)
+README.md
+```
 
 ## What I'd Do Next
 
