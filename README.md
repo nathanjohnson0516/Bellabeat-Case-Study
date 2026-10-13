@@ -4,7 +4,7 @@ This project analyzes Fitbit usage data from 30 users to identify behavioral pat
 
 ![Bellabeat Dashboard](images/dashboard-preview.png)
 
-*[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/nathan.johnson6279/viz/BellabeatSmartDeviceAnalysis_17915911524350/Dashboard1)*
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/nathan.johnson6279/viz/BellabeatSmartDeviceAnalysis_17915911524350/Dashboard1)**
 
 ## The Business Problem
 
